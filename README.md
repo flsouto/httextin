@@ -1,6 +1,6 @@
 ## HtTextin
 
-This stands for **HTML Text Input**. It's a library that catters for generating "one-line" text fields through a standard API which provides utilities for data formatting, processing and much more.
+This stands for **HTML Text Input**. It's a library that caters for generating "one-line" text fields through a standard API which provides utilities for data formatting, processing and much more.
 
 This is the first concrete implementation of the `HtWidget` class. You can [click here](https://github.com/flsouto/htwidget) and read more about it in order to better understand the whole philosophy.
 
@@ -31,7 +31,7 @@ Outputs:
 
 ```html
 
-<div class="widget 589f735d7ab67" style="display:block">
+<div class="widget 589f856da986a" style="display:block">
  <input name="email" value="user@domain.com" />
  <div style="color:yellow;background:red" class="error">
  </div>
@@ -55,7 +55,7 @@ Outputs:
 
 ```html
 
-<div class="widget 589f735d7c63b" style="display:block">
+<div class="widget 589f856dad400" style="display:block">
  <input name="email" value="" readonly="readonly" />
  <div style="color:yellow;background:red" class="error">
  </div>
@@ -80,7 +80,7 @@ Outputs:
 
 ```html
 
-<div class="widget 589f735d7cb2c" style="display:block">
+<div class="widget 589f856dad92c" style="display:block">
  <input name="email" value="" />
  <div style="color:yellow;background:red" class="error">
  </div>
@@ -102,7 +102,7 @@ Outputs:
 
 ```html
 
-<div class="widget 589f735d7d012" style="display:block">
+<div class="widget 589f856dade03" style="display:block">
  <input name="email" size="40" value="" />
  <div style="color:yellow;background:red" class="error">
  </div>
@@ -124,7 +124,7 @@ Outputs:
 
 ```html
 
-<div class="widget 589f735d7d4d2" style="display:block">
+<div class="widget 589f856dae2b0" style="display:block">
  <input name="email" size="40" value="" />
  <div style="color:yellow;background:red" class="error">
  </div>
@@ -151,7 +151,7 @@ Outputs:
 
 ```html
 
-<div class="widget 589f735d7d9c7" style="display:block">
+<div class="widget 589f856dae783" style="display:block">
  <input name="price" value="$30.90" />
  <div style="color:yellow;background:red" class="error">
  </div>
@@ -196,7 +196,7 @@ Outputs:
 
 ```html
 
-<div class="widget 589f735d7e48a" style="display:block">
+<div class="widget 589f856daf2f4" style="display:block">
  <input name="amount" value="" />
  <div style="color:yellow;background:red" class="error">
     Cannot exceed 10.
